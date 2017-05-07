@@ -1,4 +1,5 @@
 # Really Simple Array Test
+[![StyleCI](https://styleci.io/repos/90538837/shield?branch=master)](https://styleci.io/repos/90538837)
 
 A simple array test for PHP developers. There are numerous ways to complete the tasks involved in this test and there are no right, or perfect, answers. The test though will reveal roughly how knowledgeable and experienced a developer is.
 
