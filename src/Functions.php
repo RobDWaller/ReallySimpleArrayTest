@@ -2,7 +2,7 @@
 
 function dump($value)
 {
-    echo '<pre>';
+    echo PHP_SAPI !== 'cli' ? "<pre>\n" : null;
     var_dump($value);
-    echo '</pre>';
+    echo PHP_SAPI !== 'cli' ? "</pre>\n" : null;
 }
