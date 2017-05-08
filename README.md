@@ -145,6 +145,27 @@ Each array item in the new array should have the following output...
 ]
 ```
 
+## Testing
+
+To run from the command line, type: 
+
+```shell
+$ php ./public/index.php
+```
+
+To test in the browser, either start a php server:
+
+```shell
+$ cd ./public
+$ php -S localhost:8000
+```
+
+And navigate to [http://localhost:8000](http://localhost:8000).
+See the [PHP Docs](http://php.net/manual/en/features.commandline.webserver.php)
+for more information.
+
+Alternatively, use an online PHP parser such as [PHP Fiddle](http://phpfiddle.org/).
+ 
 ## Submitting Answers
 
 To submit answers to this test please clone this repo, create a new branch and push it back up once you have completed the tasks.
