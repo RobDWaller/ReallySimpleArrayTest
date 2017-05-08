@@ -7,7 +7,7 @@ A simple array test for PHP developers. There are numerous ways to complete the 
 
 This test aims to see how well a developer understands arrays and array manipulation.
 
-It is based around a small assocaitive array of users. Each task aims to test a different means of manipulating an array.
+It is based around a small assocaitive array of users, the array item fields include forename, surname, username, email, age, country, city and created_at. Each task aims to test a different means of manipulating an array.
 
 ### The User Array  
 
@@ -151,7 +151,9 @@ To submit answers to this test please clone this repo, create a new branch and p
 
 ## Author
 
-Rob Waller: @robdwaller
+Rob Waller 
+
+Twitter: [@robdwaller](https://twitter.com/RobDWaller)
 
 ## License
 
