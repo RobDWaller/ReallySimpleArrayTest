@@ -31,13 +31,13 @@ dump($usersUnderThirty);
  * Task Two
  *
  * From the $userArray array create a new array that adds a new field called
- * fullname to each array item. This field should combine the values of the
+ * full_name to each array item. This field should concatenate the values of the
  * forename and surname fields.
  */
 
-$usersWithFullname = 'Write some code.';
+$usersWithFullName = 'Write some code.';
 
-dump($usersWithFullname);
+dump($usersWithFullName);
 
 /**
  * Task Three

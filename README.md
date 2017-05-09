@@ -170,11 +170,15 @@ Alternatively, download and install a local server environment such as MAMP, XAM
 
 To submit answers to this test please clone this repo, create a new branch and push it back up once you have completed the tasks.
 
-## Author
+## Authors
 
 Rob Waller 
 
 Twitter: [@robdwaller](https://twitter.com/RobDWaller)
+
+Adam Lewis
+
+GitHub: [nark3d](https://github.com/nark3d)
 
 ## License
 
