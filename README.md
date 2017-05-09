@@ -109,7 +109,7 @@ The new array should look like this...
 
 ### Task Two
 
-Create a new array that adds a new field called fullname to each array item. This field should combine the values of the forename and surname fields.
+Create a new array that adds a new field called full_name to each array item. This field should combine the values of the forename and surname fields.
 
 Each array item in the new array should have the following output...
 
@@ -123,7 +123,7 @@ Each array item in the new array should have the following output...
     'country' => 'Germany',
     'city' => 'Munich',
     'created_at' => '2014/04/23 18:12:03',
-    'fullname' => 'Stephanie Lehman'
+    'full_name' => 'Stephanie Lehman'
 ]
 ```
 
