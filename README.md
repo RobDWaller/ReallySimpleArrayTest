@@ -153,7 +153,7 @@ To run from the command line, type:
 $ php ./public/index.php
 ```
 
-To test in the browser, either start a php server:
+To test in the browser, either install PHP locally and start a PHP server:
 
 ```shell
 $ cd ./public
@@ -164,7 +164,7 @@ And navigate to [http://localhost:8000](http://localhost:8000).
 See the [PHP Docs](http://php.net/manual/en/features.commandline.webserver.php)
 for more information.
 
-Alternatively, use an online PHP parser such as [PHP Fiddle](http://phpfiddle.org/).
+Alternatively, download and install a local server environment such as MAMP, XAMPP or Vagrant / VirtualBox.
  
 ## Submitting Answers
 
